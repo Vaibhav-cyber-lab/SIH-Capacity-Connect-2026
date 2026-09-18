@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Capacity Connect",
+  "description": "An all-in-one digital Learning Management \u0026 Capacity Building Platform connecting Trainees, Trainers, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
